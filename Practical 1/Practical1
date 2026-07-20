@@ -1,2 +1,12 @@
 PRACTICAL 1.1
+We need to make loop a bread on shelf . Every hour bread shifts by one position on right.So after X hours 
+what will be the positon of the bread.??
 In this practical i was unable to implement how the for loop will be used .
+
+PRACTICAL 1.2
+In a library which book has been taken the most , its count has to be displayed.
+The idea to make an array with count how many times the each book has been taken was hard.
+
+PRACTICAL 1.3
+We need to find the largest word in newspaper.
+In this practical i found it difficult to read every single word to a variable .
