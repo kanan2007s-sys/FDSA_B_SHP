@@ -2,7 +2,6 @@
 #include<string>
 using namespace std;
 
-
 int main()
 {
     int x=0;//Stores how many times the array should be rotated.
